@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (CRITICAL)
+.env
+
+# Build outputs (If you compile TypeScript later)
+dist/
+build/
+
+
+# Logs
+npm-debug.log*
+yarn-debug.log*

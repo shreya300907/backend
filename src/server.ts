@@ -8,7 +8,7 @@ dotenv.config();
 
 
 import passport from './config/passport.js';
-import speakerRouter from './feature/Speaker/router/speaker.router.js';
+import speakerRouter  from './feature/Speaker/router/speaker.router.js';
 import authRouter from './feature/Auth/router/auth.router.js';
 
 const app = express();
